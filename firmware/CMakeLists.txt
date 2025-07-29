@@ -1,0 +1,2 @@
+add_subdirectory(CMSIS)
+add_subdirectory(gd32f4xx_standard_peripheral)
